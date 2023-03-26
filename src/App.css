@@ -1,0 +1,13 @@
+
+.profileImg{
+  height: 70px;
+  width: 70px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+.profileImg1{
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  object-fit: cover;
+}
